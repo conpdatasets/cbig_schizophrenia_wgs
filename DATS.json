@@ -1,0 +1,151 @@
+{
+  "title": "Schizophrenia Whole Genome Sequencing",
+  "description": "Whole genome sequencing data from 400 individuals with Schizophrenia recruited at the Montreal Neurological Institute and Hospital. Recruiting clinician was Dr. Guy Rouleau. Sequencing reads were processed using a Dragen pipeline",
+  "creators": [
+    {
+      "name": "The Montreal Neurological Institute and Hospital Bioinformatics Core",
+      "abbreviation": "The Neuro Bioinformatics Core",
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "BAM alignments"
+      }
+    },
+    {
+      "information": {
+        "value": "gVCF/VCF files"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "CC BY-SA"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "BAM ALIGNMENTS",
+        "GVCF/VCF FILES"
+      ],
+      "size": 17556.7,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://cbigr.loris.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Schizophrenia"
+    },
+    {
+      "value": "Genome"
+    },
+    {
+      "value": "Sequencing"
+    },
+    {
+      "value": "WGS"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "400"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "4947"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "The Montreal Neurological Institute and Hospital Bioinformatics Core"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Montreal"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Quebec"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "The Montreal Neurological Institute and Hospital Bioinformatics Core, neurobioinfo@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that a waiver or other authorization to deposit these de-identified data in an open-access portal was obtained from a research ethics body (REB, IRB, REC, etc.)."
+        }
+      ]
+    }
+  ]
+}
