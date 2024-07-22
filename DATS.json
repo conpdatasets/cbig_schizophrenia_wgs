@@ -140,6 +140,14 @@
       ]
     },
     {
+			"category": "downloadOptions",
+			"values": [
+				{
+					"value": "offsite"
+				}
+			]
+		},
+		{
       "category": "logo",
       "values": [
         {
