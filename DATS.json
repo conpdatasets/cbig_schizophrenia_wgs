@@ -161,6 +161,14 @@
         }
       ]
     },
+ {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://cbigr-open.loris.ca/login/request-account/"
+        }
+      ]
+    },
     {
       "category": "REB_statement",
       "values": [
